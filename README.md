@@ -30,8 +30,6 @@ In the off-line face authentication mode, the face authentication is based on th
 | model | date | comment |
 |:-------|:-------|:-------|
 | [20180115-025629](https://drive.google.com/file/d/1B-ZRtWk1UoAQXHTewhKV5UPvwP3L102X/view?usp=sharing) | 2018.01.15 | FaceLiveNet: face verification and facial expression recognition |
-| [20170131-234652](https://drive.google.com/drive/folders/0B6Nyuu6HS02gT2h3NUJoUV9VVUk?usp=sharing) | 2017.01.31 | Trained by large scale dataset for general face verification|
-
 
 
 ## Training
