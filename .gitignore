@@ -127,6 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 ## xml of pycharm
 *.xml
 
+=======
+
+# pycharm xml file
+.xml
+>>>>>>> a57799ec18a3a4495eff91a5fe88ef41aa01d274
